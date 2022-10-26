@@ -1,0 +1,54 @@
+/* External CSS */
+h3{
+    font-size: 25px;
+} 
+p{
+    font-size: 18px;
+    margin-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+div{
+    margin: 10px;
+    align-content: center;
+    height: 300px;
+    float: left;
+    width: 45%;
+    border-radius: 25px;
+}
+.python{
+    background-color: rgb(199, 219, 16);
+    border: aqua 4px solid;
+    /* width: 500px; */
+    padding: 5px;
+}
+.cpp{
+    background-color: rgb(46, 224, 10);
+    border: aqua 4px solid;
+
+    /* width: 500px; */
+    padding: 5px;
+}
+.java{
+    background-color:deepskyblue;
+    border: aqua 4px solid;
+    /* width: 500px; */
+    padding: 5px;
+}
+.javascript{
+    background-color:sandybrown;
+    border: aqua 4px solid;
+    /* width: 500px; */
+    padding: 5px;
+}
+.Dart{
+    background-color:grey;
+    border: aqua 4px solid;
+    /* width: 500px; */
+    padding: 5px;
+}
+.C_Sharp{
+    background-color:mediumpurple;
+    border: aqua 4px solid;
+    /* width: 500px; */
+    padding: 5px;
+}
